@@ -10,6 +10,7 @@ export class ContactList extends Component {
         name: '',
         number: ''
     }
+    
 
     render() {
 
